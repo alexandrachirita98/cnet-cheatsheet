@@ -1,6 +1,9 @@
 organizer.ipynb
 lab/organizer.ipynb
 
+solution
+lab/solution.md
+
 # --- Secrets / API keys ---
 .env
 .env.*
