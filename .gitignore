@@ -1,0 +1,32 @@
+organizer.ipynb
+lab/organizer.ipynb
+
+# --- Secrets / API keys ---
+.env
+.env.*
+*.key
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Tooling / OS ---
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
